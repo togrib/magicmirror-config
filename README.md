@@ -1,2 +1,3 @@
 # magicmirror-config
-My configuration/codebase for magic mirror in my classroom
+Configuration file for magic mirror in my classroom
+On GitHub so I can work on it remotely (and SSH into kiosk to pull updates).
